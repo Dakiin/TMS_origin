@@ -1,0 +1,1 @@
+print(list(map(lambda x: "Четное" if x % 2 == 0 else "НЕ Четное", range(1, 31))))
